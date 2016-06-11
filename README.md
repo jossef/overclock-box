@@ -1,3 +1,16 @@
+Laser cutted Arduino case + LCD to display misc text sent via usb
+
+
+### components
+
+- lcd i bought from ebay [docs](https://arduino-info.wikispaces.com/LCD-Blue-I2C)
+- [new-liquidcrystal](https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads) arduino library
+- python dependencies 
+
+    psutil
+
+
+
 
 ![image](https://cloud.githubusercontent.com/assets/1287098/14580124/5d271cca-03cc-11e6-9f7c-3607f18a838d.png)
 
